@@ -19,7 +19,7 @@ prompt = ChatPromptTemplate.from_messages(
 
 model = ChatOpenAI(
     model="gpt-3.5-turbo",
-    openai_api_key="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"
+    openai_api_key=""
 )
 
 output_parser = StrOutputParser()
