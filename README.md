@@ -1,6 +1,5 @@
 # astrology.ai
 
-Certainly! Here's an example of a README file for your astrology application:
 
 ---
 
