@@ -42,7 +42,7 @@ Welcome to the Astrology Application! This application allows users to generate 
 
 ## Example
 
-![Astrology ![Screenshot (200)](https://github.com/Praveen9131/astrology.ai/assets/121826658/01d4f993-7a9f-417d-88d1-475738ddf3f1 )
+Astrology ![Screenshot (200)](https://github.com/Praveen9131/astrology.ai/assets/121826658/01d4f993-7a9f-417d-88d1-475738ddf3f1 )
 
 ##  Dependencies
 
